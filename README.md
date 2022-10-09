@@ -1,5 +1,5 @@
 # System-identification-using-ELS-LeastSQR-LMS-PA-RLS
-Parameter identification of a double mass, spring and damper system using popular regression methods such as ELS, Least squares, LMS, PA and RLS
+Online and offline parameter identification of a double mass, spring and damper system using popular regression methods such as ELS, Least squares, LMS, PA and RLS
 
 ## Built With
 
